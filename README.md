@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Amit-Gupta75/LeetCode/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/Amit-Gupta75/LeetCode/tree/master/0055-jump-game) |
+| [1254-number-of-closed-islands](https://github.com/Amit-Gupta75/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amit-Gupta75/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Amit-Gupta75/LeetCode/tree/master/0036-valid-sudoku) |
+| [1254-number-of-closed-islands](https://github.com/Amit-Gupta75/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amit-Gupta75/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Amit-Gupta75/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amit-Gupta75/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -66,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Amit-Gupta75/LeetCode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Amit-Gupta75/LeetCode/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Amit-Gupta75/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Amit-Gupta75/LeetCode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Amit-Gupta75/LeetCode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
