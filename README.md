@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Amit-Gupta75/LeetCode/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/Amit-Gupta75/LeetCode/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/Amit-Gupta75/LeetCode/tree/master/0130-surrounded-regions) |
+| [0690-employee-importance](https://github.com/Amit-Gupta75/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Amit-Gupta75/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Amit-Gupta75/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Amit-Gupta75/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Amit-Gupta75/LeetCode/tree/master/0036-valid-sudoku) |
+| [0690-employee-importance](https://github.com/Amit-Gupta75/LeetCode/tree/master/0690-employee-importance) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amit-Gupta75/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Matrix
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Amit-Gupta75/LeetCode/tree/master/0130-surrounded-regions) |
+| [0690-employee-importance](https://github.com/Amit-Gupta75/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Amit-Gupta75/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Amit-Gupta75/LeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Amit-Gupta75/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Amit-Gupta75/LeetCode/tree/master/0130-surrounded-regions) |
+| [0690-employee-importance](https://github.com/Amit-Gupta75/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Amit-Gupta75/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Amit-Gupta75/LeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Amit-Gupta75/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -99,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Amit-Gupta75/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Amit-Gupta75/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Amit-Gupta75/LeetCode/tree/master/1254-number-of-closed-islands) |
+## Tree
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/Amit-Gupta75/LeetCode/tree/master/0690-employee-importance) |
 <!---LeetCode Topics End-->
