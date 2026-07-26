@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Amit-Gupta75/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Amit-Gupta75/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Amit-Gupta75/LeetCode/tree/master/0733-flood-fill) |
+| [0973-k-closest-points-to-origin](https://github.com/Amit-Gupta75/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1020-number-of-enclaves](https://github.com/Amit-Gupta75/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Amit-Gupta75/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amit-Gupta75/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Amit-Gupta75/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amit-Gupta75/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Amit-Gupta75/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amit-Gupta75/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -118,12 +121,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Amit-Gupta75/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Amit-Gupta75/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Amit-Gupta75/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Amit-Gupta75/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
