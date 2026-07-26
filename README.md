@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Amit-Gupta75/LeetCode/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/Amit-Gupta75/LeetCode/tree/master/0130-surrounded-regions) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amit-Gupta75/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0690-employee-importance](https://github.com/Amit-Gupta75/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Amit-Gupta75/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Amit-Gupta75/LeetCode/tree/master/0733-flood-fill) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Amit-Gupta75/LeetCode/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/Amit-Gupta75/LeetCode/tree/master/0130-surrounded-regions) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amit-Gupta75/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/Amit-Gupta75/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Amit-Gupta75/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Amit-Gupta75/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amit-Gupta75/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/Amit-Gupta75/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Amit-Gupta75/LeetCode/tree/master/1046-last-stone-weight) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amit-Gupta75/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amit-Gupta75/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/Amit-Gupta75/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -138,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Amit-Gupta75/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Binary Search
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amit-Gupta75/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
