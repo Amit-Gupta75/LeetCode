@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Amit-Gupta75/LeetCode/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/Amit-Gupta75/LeetCode/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/Amit-Gupta75/LeetCode/tree/master/0130-surrounded-regions) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0690-employee-importance](https://github.com/Amit-Gupta75/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Amit-Gupta75/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Amit-Gupta75/LeetCode/tree/master/0733-flood-fill) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amit-Gupta75/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -112,4 +114,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/Amit-Gupta75/LeetCode/tree/master/0690-employee-importance) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
