@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amit-Gupta75/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Amit-Gupta75/LeetCode/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/Amit-Gupta75/LeetCode/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/Amit-Gupta75/LeetCode/tree/master/0130-surrounded-regions) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amit-Gupta75/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Amit-Gupta75/LeetCode/tree/master/0036-valid-sudoku) |
 | [0451-sort-characters-by-frequency](https://github.com/Amit-Gupta75/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0690-employee-importance](https://github.com/Amit-Gupta75/LeetCode/tree/master/0690-employee-importance) |
