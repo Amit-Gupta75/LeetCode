@@ -148,12 +148,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Amit-Gupta75/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Amit-Gupta75/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Amit-Gupta75/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Amit-Gupta75/LeetCode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Amit-Gupta75/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amit-Gupta75/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Amit-Gupta75/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -187,13 +189,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amit-Gupta75/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Amit-Gupta75/LeetCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Amit-Gupta75/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Amit-Gupta75/LeetCode/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amit-Gupta75/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Amit-Gupta75/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Amit-Gupta75/LeetCode/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Amit-Gupta75/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Amit-Gupta75/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
