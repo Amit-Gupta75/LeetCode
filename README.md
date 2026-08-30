@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Amit-Gupta75/LeetCode/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/Amit-Gupta75/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amit-Gupta75/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Amit-Gupta75/LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Amit-Gupta75/LeetCode/tree/master/0409-longest-palindrome) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Math
 |  |
 | ------- |
