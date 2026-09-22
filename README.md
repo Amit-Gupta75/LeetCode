@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amit-Gupta75/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Amit-Gupta75/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Amit-Gupta75/LeetCode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Amit-Gupta75/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amit-Gupta75/LeetCode/tree/master/0055-jump-game) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amit-Gupta75/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amit-Gupta75/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Amit-Gupta75/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Amit-Gupta75/LeetCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Amit-Gupta75/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Amit-Gupta75/LeetCode/tree/master/0148-sort-list) |
