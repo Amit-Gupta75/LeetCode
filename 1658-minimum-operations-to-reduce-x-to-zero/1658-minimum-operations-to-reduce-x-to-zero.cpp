@@ -9,13 +9,12 @@ public:
 
         int target = totalSum - x;
 
-        if (target < 0){
+        if (target < 0) {
             return -1;
         }
-        if (target == 0){
+        if (target == 0) {
             return n;
         }
-
 
         int max_length = -1;
         int left = 0;
@@ -33,12 +32,11 @@ public:
             }
         }
 
-            if (max_length == -1){
+        if (max_length == -1) {
 
-            
-                return -1;
-            }
-            
-            return n - max_length;
+            return -1;
         }
-    };
+
+        return n - max_length;
+    }
+};
