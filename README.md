@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Amit-Gupta75/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Amit-Gupta75/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Amit-Gupta75/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amit-Gupta75/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amit-Gupta75/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amit-Gupta75/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amit-Gupta75/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Amit-Gupta75/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amit-Gupta75/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amit-Gupta75/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amit-Gupta75/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Matrix
 |  |
 | ------- |
@@ -287,4 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Amit-Gupta75/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amit-Gupta75/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amit-Gupta75/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
